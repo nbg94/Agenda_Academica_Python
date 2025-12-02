@@ -1,0 +1,50 @@
+{
+    "datos_agenda": [
+        {
+            "id": 1,
+            "dni": "12345678A",
+            "nombre": "NORA",
+            "asignatura": "PYTHON",
+            "tipo": "TAREA",
+            "desc": "PEC 1",
+            "nota": 10.0
+        },
+        {
+            "id": 2,
+            "dni": "12345679A",
+            "nombre": "DANIEL",
+            "asignatura": "PYTHON",
+            "tipo": "TAREA",
+            "desc": "PEC",
+            "nota": 7.0
+        },
+        {
+            "id": 3,
+            "dni": "12345677A",
+            "nombre": "GUILLERMO",
+            "asignatura": "PYTHON",
+            "tipo": "TAREA",
+            "desc": "PEC",
+            "nota": 6.5
+        },
+        {
+            "id": 5,
+            "dni": "12345678A",
+            "nombre": "NORA",
+            "asignatura": "PYTHON",
+            "tipo": "EXAMEN",
+            "desc": "PEC 1",
+            "nota": 5.0
+        },
+        {
+            "id": 6,
+            "dni": "12345678A",
+            "nombre": "NORA",
+            "asignatura": "ACCESO A DATOS",
+            "tipo": "EXAMEN",
+            "desc": "PEC 1",
+            "nota": 5.0
+        }
+    ],
+    "proximo_id": 7
+}
